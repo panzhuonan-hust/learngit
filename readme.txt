@@ -6,6 +6,6 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Insert something new.
-bug branch.
+Bug branch.
 Creat a new branch dev to learn bug branch.
 Learn bug branch.
